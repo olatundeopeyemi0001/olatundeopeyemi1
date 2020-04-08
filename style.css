@@ -1,0 +1,148 @@
+<style>
+
+  h2 {
+    font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,helvetica neue,Arial,noto sans,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol,noto color emoji;
+    line-height: 1.5;
+  }
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100%;
+  background-color: rgb(6, 40, 99);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: white;
+  line-height: 1.8;
+}
+
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+#container {
+  text-align: center;text-align: center;
+  margin: 30px auto;
+  padding: 60px;
+  max-width: 400px; 
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+
+}
+div {
+  text-align: center;
+  margin-top: 34px;
+}
+
+label {
+  text-align: center;
+  display: block;
+  color: black;
+  font-size: 14px;
+}
+
+img {
+  /* image width */
+  height: 40px;
+  width: 30px;
+  float: ;
+}
+
+input {
+  /*form input properties*/
+  text-align: center;
+  margin: 0px, 5px, 0px, 5px;
+  size: 100px
+  width: 20%;
+  padding: 10px;
+  border:  none;
+  border-radius: 5px;
+  background-color:rgb(169, 231, 233);
+}
+
+.rareStyle {
+  font-size: large;
+  color: blue;
+  
+}
+
+button {
+  text-align: justify-center;
+  display: block;
+  color: white;
+  background-color: blue;
+  width: 20%;
+  padding: 10px;
+  border-radius: 9px;
+  margin-top: 22px;
+  
+}
+
+button:hover {
+  text-align: justify-center;
+  background-color: darkblue
+}
+
+footer {
+  text-align: center;
+  margin: auto;
+  max-width: 400px;
+  padding: 20px;
+  }
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.4);
+  padding: 12px 16px;
+  z-index: 1;
+  text-decoration-color: rgba(0,0,0,0.8);
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.MyLink{
+  /* form styling */
+  Background:#FFFFFF;
+  width:350px;
+  height:520px;
+  display:inline-block; font-weight:bold;
+  vertical-align: middle;
+  margin: 0px 5px 0px 5px;
+  padding: 10px;
+  
+} 
+
+
+button{
+  /* centering the create account button*/
+    margin: 0 auto;
+    size: 100px;
+}
+.first-div{/* in line horizontal alignment*/
+  display: inline-block;
+}
+.second-div {
+  display: inline-block;
+  margin-left: 15px;
+  height: 50px;
+  vertical-align: center;
+
+}
+
+</style>
